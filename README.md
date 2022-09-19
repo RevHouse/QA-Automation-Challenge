@@ -3,6 +3,7 @@
 
 ## Skills  
 
+¿Qué buscamos?
 - Diseño de escenarios de prueba automatizados.
 - Conocimiento sobre WebDriver y métodos más usados. 
 - Diseño de arquitectura de Tests Suite

@@ -12,7 +12,10 @@ see the change
 4. In the Switch Window Example, click the Open Window button. If the 30 day money back
 guarantee text (example below) is not shown, fail the test. Close the new window.
 
-![](example.png =100x20)
+<img src="example.png" width="200" height="200" />
+
+
+![](examplsse.png =100x20)
 
 
 

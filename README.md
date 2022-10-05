@@ -14,8 +14,11 @@ guarantee text (example below) is not shown, fail the test. Close the new window
 
 </center><img src="example.png" width="600" height="200" /></center>
 
-
-![](examplsse.png =100x20)
-
+<p align="center">
+ 
+<img src="example.png" title="example" width="600" height="200">
+<div align="center">Perfiles.</div>
+ 
+</p>
 
 

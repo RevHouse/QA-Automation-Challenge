@@ -1,6 +1,12 @@
 # QA Automation Engineer Challenge
 
-## 🎯 Test Components
+Thanks for your interest in joining RevHouse. At this stage, we ask you to solve the following
+challenge. Best of luck!
+
+For this challenge you can use any language that you're comfortable with.
+
+
+## Test Components
 
 The test script should execute the following tasks:
 1. Go to https://rahulshettyacademy.com/AutomationPractice/
@@ -25,5 +31,8 @@ guarantee text (example below) is not shown, fail the test. Close the new window
 </p>
 
 
-### 
+### Delivery and code requirements
 
+- Add A README in the root of your code with clear instructions on how to compile (if
+needed) and run your code.
+- Upload your code to your github in a repo called “RevHouse-QA-Automation-Challenge” 

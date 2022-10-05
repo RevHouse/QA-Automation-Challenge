@@ -12,10 +12,18 @@ see the change
 4. In the Switch Window Example, click the Open Window button. If the 30 day money back
 guarantee text (example below) is not shown, fail the test. Close the new window.
 
-
 <p align="center">
 <img src="example.png" title="example" width="600" height="200">
 <div align="center"></div>
 </p>
 
+5. In the iFrame example, get the text highlighted in blue in the following image and print it.
+
+<p align="center">
+<img src="example2.png" title="example" width="600" height="200">
+<div align="center"></div>
+</p>
+
+
+### 
 

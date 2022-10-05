@@ -36,3 +36,8 @@ guarantee text (example below) is not shown, fail the test. Close the new window
 - Add A README in the root of your code with clear instructions on how to compile (if
 needed) and run your code.
 - Upload your code to your github in a repo called “RevHouse-QA-Automation-Challenge” 
+
+## Bonus
+
+- Use POM (Page Object Model) 
+- Use Gherkin

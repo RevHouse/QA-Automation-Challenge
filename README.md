@@ -15,7 +15,7 @@ guarantee text (example below) is not shown, fail the test. Close the new window
 
 <p align="center">
 <img src="example.png" title="example" width="600" height="200">
-<div align="center">Text example.</div>
+<div align="center"></div>
 </p>
 
 

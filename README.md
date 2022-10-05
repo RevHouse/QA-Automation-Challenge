@@ -31,7 +31,7 @@ guarantee text (example below) is not shown, fail the test. Close the new window
 </p>
 
 
-### Delivery and code requirements
+## Delivery and code requirements
 
 - Add A README in the root of your code with clear instructions on how to compile (if
 needed) and run your code.

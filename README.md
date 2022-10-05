@@ -11,7 +11,8 @@ see the change
 (Bonus: use only xpath without using ids, text or values)
 4. In the Switch Window Example, click the Open Window button. If the 30 day money back
 guarantee text (example below) is not shown, fail the test. Close the new window.
-![avatar](.example.png)
+
+![avatar](example.png)
 
 
 
